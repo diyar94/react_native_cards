@@ -47,7 +47,4 @@ npx react-native run-android
 
 
 ## Screens
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-15 at 17.14.31.png](..%2F..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%20SE%20%283rd%20generation%29%20-%202023-11-15%20at%2017.14.31.png)
-
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-15 at 17.13.59.png](..%2F..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%20SE%20%283rd%20generation%29%20-%202023-11-15%20at%2017.13.59.png)
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-11-15 at 17.14.41.png](..%2F..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%20SE%20%283rd%20generation%29%20-%202023-11-15%20at%2017.14.41.png)
+Check ``` /src/assets/images```
